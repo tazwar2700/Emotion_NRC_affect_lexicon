@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/emotion.py
+src/emotion_nrc_affect_lex.egg-info/PKG-INFO
+src/emotion_nrc_affect_lex.egg-info/SOURCES.txt
+src/emotion_nrc_affect_lex.egg-info/dependency_links.txt
+src/emotion_nrc_affect_lex.egg-info/requires.txt
+src/emotion_nrc_affect_lex.egg-info/top_level.txt
