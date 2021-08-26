@@ -12,7 +12,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
-        "License :: OSI Approved :: GNU General Public Licence v2 or later (GPLv2+)",
+        "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
         "Operating System :: OS Independent",
         ],
         long_description = long_description,
@@ -20,8 +20,8 @@ setup(
         install_requires = [
             "pandas~=1.1.3",
         ],
-        url="https://github.com/tazwar2700/Emotion_NRC_affect_lex",
-        author = "Syed Mahir Tazwar"
+        url="https://github.com/tazwar2700/Emotion_NRC_affect_lexicon",
+        author = "Syed Mahir Tazwar",
         author_email = "tazwar2700@gmail.com"
 
 )
